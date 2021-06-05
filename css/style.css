@@ -261,6 +261,8 @@ footer {
     display: none; }
   .feature-section_mobile {
     display: block; }
+    .feature-section_mobile img {
+      width: 100%; }
   footer {
     background: url("../assets/mobile/mobile-footer.jpg");
     padding: 100px 20px;
@@ -269,7 +271,7 @@ footer {
   .showcase-section {
     padding: 0 20px; }
     .showcase-section .d-flex {
-      justify-content: space-between;
+      justify-content: space-around;
       flex-flow: wrap; }
       .showcase-section .d-flex .img {
         margin-bottom: 20px; }

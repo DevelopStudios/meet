@@ -329,6 +329,9 @@ footer {
   }
   .feature-section_mobile {
     display: block;
+    img {
+      width: 100%;
+    }
   }
   footer {
     background: url("../assets/mobile/mobile-footer.jpg");
@@ -339,7 +342,7 @@ footer {
   .showcase-section {
     padding:0 20px;
   .d-flex {
-    justify-content: space-between;
+    justify-content: space-around;
     flex-flow: wrap;
     .img {
       margin-bottom:20px;
