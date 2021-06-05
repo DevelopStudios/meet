@@ -1,0 +1,279 @@
+.feature-section .row .col h1.feature-header {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 64px;
+  line-height: 64px;
+  text-align: center;
+  color: #28283d; }
+
+.feature-section .row .col p.feature-text {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #87879d; }
+
+.feature-section .row .col .d-flex button.btn.btn-primary {
+  outline: none;
+  background: #4d96a9;
+  border-radius: 29px;
+  border: none;
+  box-shadow: none;
+  padding: 16px 29px;
+  margin-right: 30px; }
+
+.feature-section .row .col .d-flex button.btn.btn-primary:hover {
+  background: #71c0d4; }
+
+.feature-section .row .col .d-flex button.btn.btn-secondary {
+  background: #855fb1;
+  outline: none;
+  box-shadow: none;
+  border-radius: 29px;
+  border: none;
+  padding: 16px 29px; }
+
+.feature-section .row .col .d-flex button.btn.btn-secondary:hover {
+  background: #b18bdd; }
+
+.feature-section_tablet .row .col-12 {
+  overflow: hidden; }
+  .feature-section_tablet .row .col-12 h1.feature-header {
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 64px;
+    text-align: center;
+    color: #28283d;
+    max-width: 457px;
+    margin: auto; }
+  .feature-section_tablet .row .col-12 p.feature-text {
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #87879d;
+    max-width: 457px;
+    margin: auto;
+    margin-bottom: 50px; }
+  .feature-section_tablet .row .col-12 .d-flex button.btn.btn-primary {
+    outline: none;
+    background: #4d96a9;
+    border-radius: 29px;
+    border: none;
+    box-shadow: none;
+    padding: 16px 29px;
+    margin-right: 30px; }
+  .feature-section_tablet .row .col-12 .d-flex button.btn.btn-primary:hover {
+    background: #71c0d4; }
+  .feature-section_tablet .row .col-12 .d-flex button.btn.btn-secondary {
+    background: #855fb1;
+    outline: none;
+    box-shadow: none;
+    border-radius: 29px;
+    border: none;
+    padding: 16px 29px; }
+  .feature-section_tablet .row .col-12 .d-flex button.btn.btn-secondary:hover {
+    background: #b18bdd; }
+
+.feature-section_mobile .row .col-12 {
+  overflow: hidden; }
+  .feature-section_mobile .row .col-12 h1.feature-header {
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 64px;
+    text-align: center;
+    color: #28283d;
+    max-width: 457px;
+    margin: auto;
+    padding: 0 20px; }
+  .feature-section_mobile .row .col-12 p.feature-text {
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #87879d;
+    max-width: 457px;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 0 20px; }
+  .feature-section_mobile .row .col-12 .d-flex button.btn.btn-primary {
+    outline: none;
+    background: #4d96a9;
+    border-radius: 29px;
+    border: none;
+    box-shadow: none;
+    padding: 16px 29px;
+    margin-right: 30px; }
+  .feature-section_mobile .row .col-12 .d-flex button.btn.btn-primary:hover {
+    background: #71c0d4; }
+  .feature-section_mobile .row .col-12 .d-flex button.btn.btn-secondary {
+    background: #855fb1;
+    outline: none;
+    box-shadow: none;
+    border-radius: 29px;
+    border: none;
+    padding: 16px 29px; }
+  .feature-section_mobile .row .col-12 .d-flex button.btn.btn-secondary:hover {
+    background: #b18bdd; }
+
+.showcase-section {
+  max-width: 1110px;
+  margin: auto; }
+  .showcase-section .d-flex {
+    justify-content: space-between; }
+    .showcase-section .d-flex .img img {
+      width: 255px;
+      height: 242px;
+      border-radius: 8px; }
+
+.bottom-feature__section p.bottom-feature__section {
+  color: #4d96a9;
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 4px;
+  text-transform: uppercase; }
+
+.bottom-feature__section p.bottom-feature__section-big {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 44px;
+  text-align: center;
+  color: #28283d;
+  max-width: 445px;
+  margin: auto; }
+
+.bottom-feature__section p.bottom-muted__text {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #87879d;
+  max-width: 540px;
+  margin: auto; }
+
+.number-section {
+  margin-bottom: -26px; }
+
+footer {
+  background: url("../assets/desktop/footer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0; }
+  footer .row {
+    max-width: 1250px;
+    margin: auto; }
+    footer .row p.footer-big {
+      font-family: Red Hat Display;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 40px;
+      line-height: 44px;
+      color: #fafafa; }
+    footer .row p.footer-muted__text {
+      font-family: Red Hat Display;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 26px;
+      color: #fafafa; }
+    footer .row button.btn.btn-secondary {
+      background: #855fb1;
+      border-radius: 29px;
+      border: none;
+      box-shadow: none;
+      padding: 16px 22px; }
+    footer .row button.btn.btn-secondary:hover {
+      background: #b18bdd; }
+
+.feature-section_mobile {
+  display: none; }
+
+.feature-section_tablet {
+  display: none; }
+
+.feature-section {
+  display: block; }
+
+@media only screen and (max-width: 1152px) {
+  .showcase-section {
+    max-width: 689px;
+    margin: auto; }
+    .showcase-section .d-flex {
+      justify-content: space-between; }
+      .showcase-section .d-flex .img img {
+        width: 163px;
+        height: 156px;
+        border-radius: 8px; }
+  .feature-section_tablet {
+    display: block; }
+  .feature-section {
+    display: none; }
+  footer p.footer-big {
+    text-align: center;
+    max-width: 450px;
+    margin: auto;
+    margin-bottom: 42px; }
+  footer p.footer-muted__text.px-4 {
+    max-width: 573px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 41px; } }
+
+@media only screen and (max-width: 768px) {
+  footer {
+    background: url("../assets/tablet/footer-image.png");
+    padding: 100px 20px; } }
+
+@media only screen and (max-width: 768px) {
+  footer {
+    background: url("../assets/tablet/footer-image.png");
+    padding: 100px 20px; } }
+
+@media only screen and (max-width: 500px) {
+  .bottom-feature__section p.bottom-feature__section-big {
+    font-size: 32px;
+    max-width: 445px;
+    padding: 0 20px; }
+  .bottom-feature__section p.bottom-muted__text {
+    font-size: 16px;
+    padding: 0 20px; }
+  .feature-section {
+    display: none; }
+  .feature-section_tablet {
+    display: none; }
+  .feature-section_mobile {
+    display: block; }
+  footer {
+    background: url("../assets/mobile/mobile-footer.jpg");
+    padding: 100px 20px;
+    background-repeat: no-repeat;
+    background-size: cover; }
+  .showcase-section {
+    padding: 0 20px; }
+    .showcase-section .d-flex {
+      justify-content: space-between;
+      flex-flow: wrap; }
+      .showcase-section .d-flex .img {
+        margin-bottom: 20px; }
+        .showcase-section .d-flex .img img {
+          width: 151px;
+          height: 143px;
+          border-radius: 8px; } }
